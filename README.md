@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on the platform development team @ AiCore.
-- 🌱 I’m currently learning the vast range of AWS Services required for certification.
+- 🌱 Currently studying toward AWS Solutions Architect and learning Rust. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiliansl) 
